@@ -1,0 +1,12 @@
+# Dependensi untuk menjalankan notebook (Google Colab sudah menyediakan torch).
+# Versi sengaja tidak dikunci. Untuk reproduksi persis, jalankan di Colab:
+#   !pip freeze | grep -iE "transformers|peft|trl|datasets|accelerate|matplotlib"
+# lalu ganti baris di bawah dengan versi yang tercetak.
+torch
+transformers
+peft
+trl
+datasets
+accelerate
+matplotlib
+streamlit   # hanya untuk demo UI (app.py)

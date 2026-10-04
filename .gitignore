@@ -1,0 +1,52 @@
+# --- Hasil training & model (besar, bisa dibuat ulang dari notebook) ---
+qwen-sinar-elektronik-lora/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.gguf
+checkpoint-*/
+runs/
+wandb/
+
+# --- Rahasia (JANGAN PERNAH di-commit) ---
+.env
+.env.*
+*.key
+secrets.*
+hf_token*
+.huggingface/
+
+# --- Jupyter / Colab ---
+.ipynb_checkpoints/
+.virtual_documents/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+build/
+dist/
+
+# --- Cache Hugging Face ---
+.cache/
+huggingface/
+
+# --- Editor & sistem operasi ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- File unduhan & log ---
+*.zip
+*.log
+
+# --- Rahasia Streamlit ---
+.streamlit/secrets.toml
+
+# --- Windows ---
+desktop.ini
