@@ -4,8 +4,6 @@ https://colab.research.google.com/github/Aulyaaaaa/Aulyaaaaa/blob/main/code.ipyn
 
 Tugas mata kuliah **LLM dan Agent AI**. Repo ini berisi hands-on lab *fine-tuning* model bahasa **Qwen2.5-0.5B-Instruct** dengan teknik **LoRA** (Low-Rank Adaptation) agar menjawab sebagai asisten customer service toko elektronik fiktif dengan persona yang konsisten: selalu diawali sapaan *"Terima kasih telah menghubungi Sinar Elektronik!"* dan ditutup *"Ada lagi yang bisa dibantu?"*.
 
-> Catatan: ganti `USERNAME` pada tautan badge di atas dengan nama akun GitHub, agar tombol *Open in Colab* berfungsi.
-
 ## Apa yang dipelajari
 
 1. Apa itu fine-tuning LLM, dan bedanya dengan prompt engineering dan RAG.
