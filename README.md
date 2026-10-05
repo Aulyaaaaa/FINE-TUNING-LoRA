@@ -1,7 +1,5 @@
 # Fine-Tuning LLM dengan LoRA: Asisten Customer Service "Sinar Elektronik"
 
-https://colab.research.google.com/github/Aulyaaaaa/Aulyaaaaa/blob/main/code.ipynb
-
 Tugas mata kuliah **LLM dan Agent AI**. Repo ini berisi hands-on lab *fine-tuning* model bahasa **Qwen2.5-0.5B-Instruct** dengan teknik **LoRA** (Low-Rank Adaptation) agar menjawab sebagai asisten customer service toko elektronik fiktif dengan persona yang konsisten: selalu diawali sapaan *"Terima kasih telah menghubungi Sinar Elektronik!"* dan ditutup *"Ada lagi yang bisa dibantu?"*.
 
 ## Apa yang dipelajari
